@@ -1,0 +1,11 @@
+../Core/Src/main.c:127:5:main	8	static
+../Core/Src/main.c:219:6:SystemClock_Config	88	static
+../Core/Src/main.c:277:13:MX_ETH_Init	8	static
+../Core/Src/main.c:326:13:MX_USART3_UART_Init	8	static
+../Core/Src/main.c:361:13:MX_USB_OTG_FS_PCD_Init	8	static
+../Core/Src/main.c:396:13:MX_GPIO_Init	56	static
+../Core/Src/main.c:447:5:__io_putchar	16	static
+../Core/Src/main.c:461:6:Tarefa3_Handle	16	static
+../Core/Src/main.c:488:6:Tarefa1_Handle	16	static
+../Core/Src/main.c:510:6:Tarefa2_Handle	24	static
+../Core/Src/main.c:536:6:Error_Handler	4	static,ignoring_inline_asm
